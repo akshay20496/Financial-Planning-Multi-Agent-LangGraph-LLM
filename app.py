@@ -1,7 +1,7 @@
 import streamlit as st
 from graph import FinancialAdvisorGraph
 
-st.title("AI-Powered Financial Investment Advisor 🤖💰")
+st.title("AI-Powered Financial Advisor 🤖💰")
 
 
 user_input = st.text_area(
